@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.exe
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.deps.json
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.runtimeconfig.json
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.dll
+C:\Users\Vanderson\Documents\Exerc01POO\bin\Debug\netcoreapp3.1\Exerc01POO.pdb
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.dll
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.pdb
+C:\Users\Vanderson\Documents\Exerc01POO\obj\Debug\netcoreapp3.1\Exerc01POO.genruntimeconfig.cache

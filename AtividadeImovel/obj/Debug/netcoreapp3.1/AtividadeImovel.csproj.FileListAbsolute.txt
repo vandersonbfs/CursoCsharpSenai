@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.exe
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.deps.json
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.dll
+C:\Users\Vanderson\Documents\AtividadeImovel\bin\Debug\netcoreapp3.1\AtividadeImovel.pdb
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.dll
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.pdb
+C:\Users\Vanderson\Documents\AtividadeImovel\obj\Debug\netcoreapp3.1\AtividadeImovel.genruntimeconfig.cache

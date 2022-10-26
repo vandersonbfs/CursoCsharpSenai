@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.exe
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.deps.json
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.dll
+C:\Users\Vanderson\Documents\AtividadecomDatas\bin\Debug\netcoreapp3.1\AtividadecomDatas.pdb
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.dll
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.pdb
+C:\Users\Vanderson\Documents\AtividadecomDatas\obj\Debug\netcoreapp3.1\AtividadecomDatas.genruntimeconfig.cache

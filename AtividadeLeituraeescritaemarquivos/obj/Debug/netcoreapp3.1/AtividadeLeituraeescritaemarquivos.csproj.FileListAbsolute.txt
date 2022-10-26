@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.exe
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.deps.json
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.dll
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\bin\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.pdb
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.dll
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.pdb
+C:\Users\Vanderson\Documents\AtividadeLeituraeescritaemarquivos\obj\Debug\netcoreapp3.1\AtividadeLeituraeescritaemarquivos.genruntimeconfig.cache

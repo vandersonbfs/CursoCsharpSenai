@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.exe
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.deps.json
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.json
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Users\Vanderson\Documents\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Users\Vanderson\Documents\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.exe
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.deps.json
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.runtimeconfig.json
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.dll
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\bin\Debug\netcoreapp3.1\IntroOrientacaoObjeto.pdb
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.dll
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.pdb
+C:\Users\Vanderson\Documents\IntroOrientacaoObjeto\obj\Debug\netcoreapp3.1\IntroOrientacaoObjeto.genruntimeconfig.cache

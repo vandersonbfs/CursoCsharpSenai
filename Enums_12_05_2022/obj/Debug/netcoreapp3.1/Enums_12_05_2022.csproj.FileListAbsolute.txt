@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.exe
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.deps.json
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.runtimeconfig.json
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.dll
+C:\Users\Vanderson\Documents\Enums_12_05_2022\bin\Debug\netcoreapp3.1\Enums_12_05_2022.pdb
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.dll
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.pdb
+C:\Users\Vanderson\Documents\Enums_12_05_2022\obj\Debug\netcoreapp3.1\Enums_12_05_2022.genruntimeconfig.cache

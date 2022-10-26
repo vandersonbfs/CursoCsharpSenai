@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.exe
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.deps.json
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.runtimeconfig.json
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.dll
+C:\Users\Vanderson\Documents\ConverterTemperaturas\bin\Debug\netcoreapp3.1\ConverterTemperaturas.pdb
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.dll
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.pdb
+C:\Users\Vanderson\Documents\ConverterTemperaturas\obj\Debug\netcoreapp3.1\ConverterTemperaturas.genruntimeconfig.cache

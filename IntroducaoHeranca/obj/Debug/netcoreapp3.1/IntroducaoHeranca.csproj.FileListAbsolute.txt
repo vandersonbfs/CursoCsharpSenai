@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.exe
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.deps.json
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.runtimeconfig.json
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.dll
+C:\Users\Vanderson\Documents\IntroducaoHeranca\bin\Debug\netcoreapp3.1\IntroducaoHeranca.pdb
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.dll
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.pdb
+C:\Users\Vanderson\Documents\IntroducaoHeranca\obj\Debug\netcoreapp3.1\IntroducaoHeranca.genruntimeconfig.cache

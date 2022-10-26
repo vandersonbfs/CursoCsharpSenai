@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.exe
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.deps.json
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.dll
+C:\Users\Vanderson\Documents\AtividadeEnums\bin\Debug\netcoreapp3.1\AtividadeEnums.pdb
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.dll
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.pdb
+C:\Users\Vanderson\Documents\AtividadeEnums\obj\Debug\netcoreapp3.1\AtividadeEnums.genruntimeconfig.cache

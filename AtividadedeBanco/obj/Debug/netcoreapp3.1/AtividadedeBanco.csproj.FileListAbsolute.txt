@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.exe
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.deps.json
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.dll
+C:\Users\Vanderson\Documents\AtividadedeBanco\bin\Debug\netcoreapp3.1\AtividadedeBanco.pdb
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.dll
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.pdb
+C:\Users\Vanderson\Documents\AtividadedeBanco\obj\Debug\netcoreapp3.1\AtividadedeBanco.genruntimeconfig.cache

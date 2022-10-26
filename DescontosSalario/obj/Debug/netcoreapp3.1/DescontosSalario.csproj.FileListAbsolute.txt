@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.exe
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.deps.json
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.runtimeconfig.json
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.dll
+C:\Users\Vanderson\Documents\DescontosSalario\bin\Debug\netcoreapp3.1\DescontosSalario.pdb
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.dll
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.pdb
+C:\Users\Vanderson\Documents\DescontosSalario\obj\Debug\netcoreapp3.1\DescontosSalario.genruntimeconfig.cache

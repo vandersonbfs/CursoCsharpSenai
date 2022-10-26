@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.exe
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.deps.json
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.runtimeconfig.json
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.dll
+C:\Users\Vanderson\Documents\TrabalharComArquivos\bin\Debug\netcoreapp3.1\TrabalharComArquivos.pdb
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.dll
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.pdb
+C:\Users\Vanderson\Documents\TrabalharComArquivos\obj\Debug\netcoreapp3.1\TrabalharComArquivos.genruntimeconfig.cache

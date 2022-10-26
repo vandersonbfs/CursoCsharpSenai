@@ -1,0 +1,5 @@
+C:\Users\Vanderson\Documents\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.csproj.CoreCompileInputs.cache

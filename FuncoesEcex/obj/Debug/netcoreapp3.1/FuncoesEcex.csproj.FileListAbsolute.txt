@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.exe
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.deps.json
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.runtimeconfig.json
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.dll
+C:\Users\Vanderson\Documents\FuncoesEcex\bin\Debug\netcoreapp3.1\FuncoesEcex.pdb
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.dll
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.pdb
+C:\Users\Vanderson\Documents\FuncoesEcex\obj\Debug\netcoreapp3.1\FuncoesEcex.genruntimeconfig.cache

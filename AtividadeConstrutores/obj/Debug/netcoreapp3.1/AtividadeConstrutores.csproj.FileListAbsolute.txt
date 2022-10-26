@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.exe
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.deps.json
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.runtimeconfig.json
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.dll
+C:\Users\Vanderson\Documents\AtividadeConstrutores\bin\Debug\netcoreapp3.1\AtividadeConstrutores.pdb
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.dll
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.pdb
+C:\Users\Vanderson\Documents\AtividadeConstrutores\obj\Debug\netcoreapp3.1\AtividadeConstrutores.genruntimeconfig.cache

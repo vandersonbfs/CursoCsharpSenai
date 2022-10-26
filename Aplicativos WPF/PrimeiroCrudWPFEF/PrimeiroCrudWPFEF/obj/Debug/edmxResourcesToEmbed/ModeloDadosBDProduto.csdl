@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BDPRODUTOSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CATEGORIA">
+    <Key>
+      <PropertyRef Name="IDCATEGORIA" />
+    </Key>
+    <Property Name="IDCATEGORIA" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRICAO" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PRODUTOes" Relationship="Self.FK_ID_CATEGORIA" FromRole="CATEGORIA" ToRole="PRODUTO" />
+  </EntityType>
+  <EntityType Name="PRODUTO">
+    <Key>
+      <PropertyRef Name="IDPRODUTO" />
+    </Key>
+    <Property Name="IDPRODUTO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRICAO" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="QUANTIDADE" Type="Int32" />
+    <Property Name="VALOR" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="ID_CATEGORIA" Type="Int32" />
+    <NavigationProperty Name="CATEGORIA" Relationship="Self.FK_ID_CATEGORIA" FromRole="PRODUTO" ToRole="CATEGORIA" />
+  </EntityType>
+  <Association Name="FK_ID_CATEGORIA">
+    <End Role="CATEGORIA" Type="Self.CATEGORIA" Multiplicity="0..1" />
+    <End Role="PRODUTO" Type="Self.PRODUTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORIA">
+        <PropertyRef Name="IDCATEGORIA" />
+      </Principal>
+      <Dependent Role="PRODUTO">
+        <PropertyRef Name="ID_CATEGORIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDPRODUTOSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CATEGORIAs" EntityType="Self.CATEGORIA" />
+    <EntitySet Name="PRODUTOes" EntityType="Self.PRODUTO" />
+    <AssociationSet Name="FK_ID_CATEGORIA" Association="Self.FK_ID_CATEGORIA">
+      <End Role="CATEGORIA" EntitySet="CATEGORIAs" />
+      <End Role="PRODUTO" EntitySet="PRODUTOes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.exe
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.deps.json
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.runtimeconfig.json
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.dll
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\bin\Debug\netcoreapp3.1\ExercicioDataeHoras.pdb
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.dll
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.pdb
+C:\Users\Vanderson\Documents\ExercicioDataeHoras\obj\Debug\netcoreapp3.1\ExercicioDataeHoras.genruntimeconfig.cache

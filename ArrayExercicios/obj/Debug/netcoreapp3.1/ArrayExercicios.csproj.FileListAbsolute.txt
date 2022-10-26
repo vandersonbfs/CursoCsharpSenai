@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.exe
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.deps.json
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.runtimeconfig.json
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.dll
+C:\Users\Vanderson\Documents\ArrayExercicios\bin\Debug\netcoreapp3.1\ArrayExercicios.pdb
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.dll
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.pdb
+C:\Users\Vanderson\Documents\ArrayExercicios\obj\Debug\netcoreapp3.1\ArrayExercicios.genruntimeconfig.cache

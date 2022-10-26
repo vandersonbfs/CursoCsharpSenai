@@ -1,0 +1,5 @@
+C:\Users\Vanderson\Documents\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Vanderson\Documents\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Vanderson\Documents\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

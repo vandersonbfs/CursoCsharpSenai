@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercPOO3/1.0.0": {
+        "runtime": {
+          "ExercPOO3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercPOO3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
